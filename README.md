@@ -1,0 +1,2 @@
+# A-SECURE-FEDERATED-HEALTHCARE-ANALYTICS-SYSTEM-USING-ECC-FOR-PRIVACY-PRESERVING-DISEASE-DIAGNOSIS
+ Federated learning allows hospitals to collaboratively train disease diagnosis models without sharing patient data, ensuring privacy protection.   Elliptic Curve Cryptography (ECC) secures model updates with strong encryption and low computational cost, improving healthcare data security and accuracy. 
